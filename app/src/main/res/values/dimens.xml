@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fabTopMarg">145dp</dimen>
+    <dimen name="imageViewWidth">50dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="imageHeight">70dp</dimen>
+</resources>

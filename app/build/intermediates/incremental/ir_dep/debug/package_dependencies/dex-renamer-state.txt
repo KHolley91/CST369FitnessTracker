@@ -1,0 +1,4 @@
+#Tue Oct 30 12:23:35 CDT 2018
+base.0=D\:\\Kyle Holley\\FitnessApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

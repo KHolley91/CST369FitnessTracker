@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="maxLengthEnter">7</integer>
+    <integer name="gridColCount">3</integer>
+    <integer name="gridRowCount">2</integer>
+</resources>
